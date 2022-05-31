@@ -1,5 +1,7 @@
 # Day 1 - Sunday.
 
+Apenas um repositório de testes para o Livin' in the Sunlight, Lovin' in the Moon Light.
+
 # Lembrete
 Na pasta raiz da sua aplicação, digite 
 
