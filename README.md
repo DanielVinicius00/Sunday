@@ -1,13 +1,9 @@
-# Leia as instruções enviadas no pdf no ava da disciplina.
+# Day 1 - Sunday.
 
-# Trabalhando de maneira local
+# Lembrete
 Na pasta raiz da sua aplicação, digite 
 
 ```make test```
-
-Para compilar e testar sua aplicação com os testes iniciais. Você poderá adicionar mais arquivos de testes, caso deseje (veja o formato na pasta testes).
-
-OBS: **Não há qualquer garantia de que passando nos testes iniciais, sua aplicação estará 100% correta**. Portanto, adicione mais testes para cobrir as situações que você acha que devem ser testadas.
 
 # Para sincronizar com o github
 ## Configure seu usuário e email
